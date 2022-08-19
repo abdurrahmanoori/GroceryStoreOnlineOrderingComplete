@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using GroceryStore.Models;
 using GroceryStoreOnlineOrdering.Data;
-using GroceryStoreOnlineOrdering.Models;
+//using GroceryStoreOnlineOrdering.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GroceryStoreOnlineOrdering.Controllers

@@ -5,8 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using GroceryStoreOnlineOrdering.Models;
+//using GroceryStoreOnlineOrdering.Models;
 using GroceryStoreOnlineOrdering.Data;
+using GroceryStore.Models;
 
 namespace GroceryStoreOnlineOrdering.Controllers
 {
